@@ -1,2 +1,2 @@
 # Data Science and Artificial Projects
-## To be listed soon ...
+## Description of all the projects I have completed in fulfillment of Simplilearn's Data Science certification.
